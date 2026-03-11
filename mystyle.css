@@ -1,0 +1,11 @@
+.mynavbar{
+    background-color:red;
+    padding:20px;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 60px;
+    }
+
+a{text-decoration: none;
+    
+}
